@@ -32,16 +32,16 @@
    pip3 install google-generativeai
    ```
    
-# 5) Add Your API Key:
+# 4) Add Your API Key:
    - Open main.py in a text editor
    - Replace "YOUR_API_KEY_HERE" at the top of the file with your actual Gemini API key
 
-# 6) Run the Chatbot:
+# 5) Run the Chatbot:
    ```
    python3 main.py
    ```
 
-# 7) Deactivate the virtual environment when done:
+# 6) Deactivate the virtual environment when done:
    ```
    deactivate
    ```
